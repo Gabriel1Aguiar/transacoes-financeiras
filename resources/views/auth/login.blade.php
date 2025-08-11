@@ -1,9 +1,13 @@
-<!-- resources/views/auth/login.blade.php -->
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8" />
     <title>Login</title>
+    <style>
+        h1,form{
+            text-align:center;
+        }
+    </style>
 </head>
 <body>
     <h1>Login</h1>
